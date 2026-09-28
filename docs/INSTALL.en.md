@@ -26,6 +26,7 @@ Edit these files after the first run:
 - `config/my_papers.bib`: your Zotero Better BibTeX export
 
 Run `paper-newsletter doctor` until there are no failures.
+See the [user configuration guide](CONFIGURATION.en.md) for every field and file.
 
 ## 3. Manual installation
 

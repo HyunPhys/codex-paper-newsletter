@@ -26,6 +26,7 @@ powershell -ExecutionPolicy Bypass -File scripts/install.ps1
 - `config/my_papers.bib`: Zotero Better BibTeX export
 
 `paper-newsletter doctor`를 실행하여 실패 항목이 없어질 때까지 설정합니다.
+[사용자 설정 가이드](CONFIGURATION.ko.md)에서 각 항목과 파일의 입력법을 확인할 수 있습니다.
 
 ## 3. 수동 설치
 

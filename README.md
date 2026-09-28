@@ -28,6 +28,8 @@ Then edit the files created in `config/`, connect Gmail in Codex, and create a
 
 - [English installation guide](docs/INSTALL.en.md)
 - [한국어 설치 매뉴얼](docs/INSTALL.ko.md)
+- [English configuration guide](docs/CONFIGURATION.en.md)
+- [한국어 사용자 설정 가이드](docs/CONFIGURATION.ko.md)
 - [Operations and recovery](docs/OPERATIONS.en.md)
 
 ## Safety model
