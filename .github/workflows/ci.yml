@@ -19,4 +19,4 @@ jobs:
       - run: python -m pytest -q
       - if: github.event.repository.name == 'codex-paper-newsletter'
         run: python scripts/check_public_tree.py .
-      - run: python -m pip wheel . --no-deps --no-build-isolation --wheel-dir dist
+      - run: python -m build --wheel --outdir dist
