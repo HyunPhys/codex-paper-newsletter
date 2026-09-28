@@ -1,0 +1,16 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+build/
+dist/
+*.egg-info/
+out/
+state/
+logs/
+backups/
+config/settings.toml
+config/profile.md
+config/my_papers.md
+config/my_papers.bib
+config/feeds.opml

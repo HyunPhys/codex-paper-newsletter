@@ -1,0 +1,33 @@
+[paths]
+feeds_opml = "config/feeds.opml"
+profile_md = "config/profile.md"
+my_papers_md = "config/my_papers.md"
+my_papers_bib = "config/my_papers.bib"
+email_template = "config/email_template.md"
+state_file = "state/processed.json"
+out_dir = "out"
+
+[newsletter]
+email_to = "reader@example.com"
+timezone = "Asia/Seoul"
+threshold = 3.0
+top_n = 5
+developer_name = "Byunghyun Kim"
+developer_email = "bhkim133@gmail.com"
+project_url = "https://github.com/HyunPhys/codex-paper-newsletter"
+
+[collection]
+schedule_time = "09:40"
+attempts = 6
+retry_delay_seconds = 180
+dated_feed_lookback_days = 4
+arxiv_lookback_days = 2
+
+[digest]
+schedule_time = "10:00"
+
+[network]
+crossref_email = "reader@example.com"
+request_timeout_seconds = 8
+request_retries = 2
+max_response_bytes = 10000000

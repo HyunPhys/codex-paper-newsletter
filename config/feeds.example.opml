@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><title>Paper newsletter example feeds</title></head>
+  <body>
+    <outline text="Example feeds">
+      <outline type="rss" text="Nature Materials" title="Nature Materials" xmlUrl="https://www.nature.com/nmat.rss" />
+      <outline type="rss" text="Science Advances" title="Science Advances" xmlUrl="https://www.science.org/action/showFeed?type=etoc&amp;feed=rss&amp;jc=sciadv" />
+      <outline type="rss" text="Physical Review Letters" title="Physical Review Letters" xmlUrl="https://feeds.aps.org/rss/recent/prl.xml" />
+      <outline type="rss" text="arXiv condensed matter materials science" title="arXiv condensed matter materials science" xmlUrl="https://rss.arxiv.org/rss/cond-mat.mtrl-sci" />
+    </outline>
+  </body>
+</opml>
